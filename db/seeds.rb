@@ -8,6 +8,6 @@
 
   songs = Song.create{title: "Wish You Were Here", album: "Wish you were here", artist: "Pink Floyd", year: 1975}
 
-  songs = Song.create{title: "", album: "Wish you were here", artist: "Pink Floyd", year: 1975}
+  songs = Song.create{title: "Another Brick in the Wall", album: "The Wall", artist: "Pink Floyd", year: 1979}
 
   
